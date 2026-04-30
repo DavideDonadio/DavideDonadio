@@ -1,7 +1,7 @@
-# Hello there!👋  
+# Hi, I'm Davide 👋
 
-### My name is Davide, and here's a bit about me:
+Computer Science Master's student at Università degli studi dell'Insubria, <br>
+with a focus on Data Engineering and data-driven systems.
 
-🎓 **Computer Science Master's Student at Università degli studi dell'Insubria**  
-💻 **Passionate Coder**  
-🏎️ **Formula 1 Enthusiast**
+I work mainly with Python, Pandas and SQL.<br>
+Currently experimenting with NLP and sentiment analysis.
